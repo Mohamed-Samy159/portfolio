@@ -138,10 +138,5 @@ export const education = [
     period: "2026",
     points: ["React, JavaScript, responsive design and Git workflows."],
   },
-  // {
-  //   title: "Responsive Web Design Certification",
-  //   place: "Online Platform",
-  //   period: "2026",
-  //   points: ["HTML5, CSS3, Flexbox, Grid and accessibility fundamentals."],
-  // },
+  
 ];

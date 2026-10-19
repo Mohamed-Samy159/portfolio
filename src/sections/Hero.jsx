@@ -56,9 +56,14 @@ export default function Hero() {
             />
           </motion.p>
           <motion.div variants={item} className="mt-8 flex flex-wrap gap-3">
-            <a href={profile.cv} download className="btn btn-primary">
+            <a
+              href={profile.cv}
+              download="Mohamed_Samy_CV.pdf"
+              className="btn btn-primary"
+            >
               <HiDownload /> Download CV
             </a>
+
             <a href="#projects" className="btn btn-ghost">
               <HiArrowDown /> View Projects
             </a>

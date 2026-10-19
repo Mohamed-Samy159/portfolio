@@ -123,10 +123,7 @@ export const projects = [
   // },
 ];
 
-// export const experience = [
-//   { title: 'Front-End Developer Intern', place: 'Company Name', period: '2025 - Present', points: ['Built responsive React components from Figma designs.', 'Improved page load speed with code splitting and image optimization.', 'Collaborated through pull requests and code reviews.'] },
-//   { title: 'Freelance Web Developer', place: 'Self-employed', period: '2024 - 2025', points: ['Delivered landing pages and small business websites for clients.', 'Handled design handoff, development and deployment end to end.'] },
-// ]
+
 
 export const education = [
   {

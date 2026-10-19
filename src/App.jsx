@@ -7,7 +7,6 @@ import About from './sections/About'
 import Skills from './sections/Skills'
 
 const Projects = lazy(() => import('./sections/Projects'))
-const Experience = lazy(() => import('./sections/Experience'))
 const Education = lazy(() => import('./sections/Education'))
 const GitHubStats = lazy(() => import('./sections/GitHubStats'))
 const Contact = lazy(() => import('./sections/Contact'))

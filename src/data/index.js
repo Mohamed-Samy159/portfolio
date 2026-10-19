@@ -4,7 +4,7 @@ export const profile = {
   headline: "Front-End Developer Building Modern Web Experiences",
   email: "mosamykamal@gmail.com",
   phone: "01123822442",
-  cv: "/Mohamed_Samy_CV.pdf",
+  cv: "../../public/Mohamed_Samy_CV.pdf",
   links: {
     linkedin: "https://www.linkedin.com/in/mohamed-samy-2835a7287/",
     github: "https://github.com/Mohamed-Samy159",
